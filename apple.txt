@@ -1,1 +1,2 @@
 사과는 과일
+apple is fruit
